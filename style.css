@@ -2,21 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* font-family: 'Monoton', cursive; */
 
 *{
@@ -83,7 +68,7 @@ nav .navbar{
   padding: 0 50px;
 }
 .navbar .logo a{
-  font-size: 30px;
+  font-size: 20px;
   color: #fff;
   text-decoration: none;
   font-weight: 600;
@@ -373,8 +358,10 @@ h1 {
 }
 
 .grille {
-  max-width: 1655px;
-  width: 95%;
+  /* max-width: 1655px;
+  width: 95%; */
+  max-width: 100%;
+  width: 99%;
   height: auto;
   margin: 30px auto;
   /* border: 1px solid #333; */
